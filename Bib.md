@@ -1,0 +1,23 @@
+- Autonomy and Reliability of Continuous Active Learning for Technology-Assisted Review, 2015.
+ - Keywords
+   - Continuous active learning
+    - ad hoc search - The retrieval system can actively probe a user with questions to clarify the information need instead of just passively responding to user queries. Ad hoc = for a special purpose of knowing the relevance of docs.
+    - adversarial context
+    - systematic review
+    - meta-analysis
+    - conjunctive normal form
+    - pooling method - evaluate relevant docs from a pool use them to evaluate more in the next step taking these relevant docs into mind.
+    - Kendal rank correlation
+    - qrels
+ - Datasets
+   - the legal datasets examined by Cormack and Grossman
+    - the Reuters RCV1-v2 subject categories
+    - the TREC 6 AdHoc task
+    - the construction of the TREC 2002 filtering test collection
+
+
+- SMOTE: Synthetic Minority Over-sampling Technique
+ - Keywords
+  - Receiver Operating Characteristic (ROC) curve
+  - C4.5 decision tree classifier (Quinlan, 1992), Ripper (Cohen, 1995b)
+  - 
